@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'BraceletSDKDemo_Example' do
+  pod 'BraceletSDKDemo', :path => '../'
+
+  target 'BraceletSDKDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
