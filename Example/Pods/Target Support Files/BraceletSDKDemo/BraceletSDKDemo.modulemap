@@ -1,0 +1,6 @@
+framework module BraceletSDKDemo {
+  umbrella header "BraceletSDKDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

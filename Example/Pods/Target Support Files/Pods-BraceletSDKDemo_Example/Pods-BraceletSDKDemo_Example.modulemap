@@ -1,0 +1,6 @@
+framework module Pods_BraceletSDKDemo_Example {
+  umbrella header "Pods-BraceletSDKDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

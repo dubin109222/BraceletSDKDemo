@@ -1,0 +1,22 @@
+{
+  "name": "BraceletSDKDemo",
+  "version": "0.1.0",
+  "summary": "A short description of BraceletSDKDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dubin109222/BraceletSDKDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dubin109222": "865607462@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dubin109222/BraceletSDKDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BraceletSDKDemo/Classes/**/*"
+}

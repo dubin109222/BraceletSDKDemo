@@ -1,0 +1,16 @@
+PODS:
+  - BraceletSDKDemo (0.1.0)
+
+DEPENDENCIES:
+  - BraceletSDKDemo (from `../`)
+
+EXTERNAL SOURCES:
+  BraceletSDKDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BraceletSDKDemo: 85b94a03280df9ba23fc980eacbbfa3e60ac4032
+
+PODFILE CHECKSUM: 5dc82489abb7f1d29f925c891ff72f86f7e37aeb
+
+COCOAPODS: 1.7.5
